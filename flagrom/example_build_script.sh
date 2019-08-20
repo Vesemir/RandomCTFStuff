@@ -1,0 +1,2 @@
+#!/bin/sh
+g++ -I/home/ubuntu18/Downloads/verilator-4.016/include/ obj_dir/cpp_driver.cpp /home/ubuntu18/Downloads/verilator-4.016/include/verilated.cpp obj_dir/Vseeprom__ALLcls.o obj_dir/Vseeprom__ALLsup.o -o test_driver

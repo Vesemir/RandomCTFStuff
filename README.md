@@ -1,1 +1,1 @@
-Just another solution for GoogleCtf's MicroServiceDaemonOS. Used 'shellcode' is in '*.asm', some self-explanatory layout is in '*.png', auto-solver in '*.py' (may occasionally fail since byte generation is random, but it worked the first time it was finished). Also the task binary is included for completeness ('*.txt' * '*.'(elf64) if someone wants to look at it when it's deleted).
+Just solutions (if you can even call it like that) of some random tasks from googlectf 2019.
